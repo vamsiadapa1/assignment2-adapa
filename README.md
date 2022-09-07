@@ -26,3 +26,16 @@ The other locations that i will recommend to vist around the **National Museum D
 
 
 [AboutMe.md](https://github.com/vamsiadapa1/assignment2-adapa/blob/6f3ff49d983bcf90155528946c0f3786525e2543/AboutMe.md)
+
+*** New Section For Tables
+
+The below table describes about the famous locations for to visit and spend time.
+
+|City Name | Locations | Time  |
+| -----    | -----     | ----- | 
+| Chennai  | Beaches,Temples| 2 Days|
+| Goa      | Resorts   | 1 day|
+|Vijayawada | Durga Temple| 1 day|
+|Hyderbad | Golkonda Fort| 1 day|
+|Delhi   | Taj Mahal | 1day|
+
