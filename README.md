@@ -48,3 +48,9 @@ The below table describes about the famous locations for to visit and spend time
 >To realize one's destinity is a person's obligation-*Paulo Coelho*
 
 ***
+
+#### Code Fencing
+
+> Fixed width menu with full width dropdown
+
+<https://stackoverflow.com/questions/73641121/fixed-width-menu-with-full-width-dropdown>
