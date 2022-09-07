@@ -40,3 +40,6 @@ The below table describes about the famous locations for to visit and spend time
 |Hyderbad | Golkonda Fort,charminar| 1 day|
 |Delhi   | Taj Mahal | 1day|
 
+***
+
+
