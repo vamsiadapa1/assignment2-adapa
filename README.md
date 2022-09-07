@@ -41,5 +41,9 @@ The below table describes about the famous locations for to visit and spend time
 |Delhi   | Taj Mahal | 1day|
 
 ***
+#### Pithy quotes
 
+>One is Loved because one is Loved.No reason is needed for loving.-*Paulo Coelho*
+
+>To realize one's destinity is a person's obligation.-*Paulo Coelho*
 
