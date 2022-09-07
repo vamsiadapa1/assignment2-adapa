@@ -54,3 +54,32 @@ The below table describes about the famous locations for to visit and spend time
 > Fixed width menu with full width dropdown
 
 <https://stackoverflow.com/questions/73641121/fixed-width-menu-with-full-width-dropdown>
+
+```
+<h3>All Post Meta</h3>
+
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>
+
+```
+
+<https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/>
+
+***
