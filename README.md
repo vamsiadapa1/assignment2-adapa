@@ -12,8 +12,8 @@ The National Museum has an extensive series of ***anthropological artifacts*** t
 
 2. Turn right onto Dwarka Rd for 2 miles and 
 3. Take the exit toward Thimayya Marg
- 4.  Turn right onto Thimayya Marg for 3 miles 
- 5. Continue straight to stay on Thimayya MargTurn 
+   1.  Turn right onto Thimayya Marg for 3 miles 
+   2. Continue straight to stay on Thimayya MargTurn 
 6. left onto Old Palam Rd for 0.2 miles we can reach our Museum. 
 
 The other locations that i will recommend to vist around the museum was:
