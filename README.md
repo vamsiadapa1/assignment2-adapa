@@ -8,7 +8,6 @@ The National Museum has an extensive series of ***anthropological artifacts*** t
 
  The Airport that is close to the National Musem Delhi is Indra Gandhi International Airport the distance was around 15 miles 
 
-We can headed the museum through road and the directions was 
 1)Head southwest on Indra Gandhi Airport Tularam Marg toward Northern Access Rd 
 2)Turn right onto Dwarka Rd for 2miles and 
 3)Take the exit toward Thimayya Marg
@@ -16,7 +15,7 @@ We can headed the museum through road and the directions was
  5)Continue straight to stay on Thimayya MargTurn 
 6)left onto Old Palam Rd for 0.2 miles we can reach our destination 
 
-#####unordered list
+ 
 * Taj Mahal
 * Lotus Temple
 * Aksharadama Temple
