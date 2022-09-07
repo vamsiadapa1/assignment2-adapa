@@ -1,0 +1,3 @@
+# Vamsi Krishna Adapa
+My self Vamsi Krishna Adapa from Vijayawada, India.Completed my Under Graduation in Computer Science Stream from Veltech University,Chennai. After completing of my Under Graduation i started working in NTT DATA SERVICES for an year,after that i joined in the Northwest West Missouri State University to purse my masters in Applied Computer Science Stream. I wish to become Software Developer after completion of my Masters.
+![My Pic](C:\Users\s550097\Documents\GitHub\assignment2-adapa\vamsi.png)
